@@ -1,0 +1,5 @@
+- sort buttons
+- collapse/uncollapse all buttons
+- remove dep / reveal in explorer context entries
+- log invalidFiles to console
+- enable settings from configurationType

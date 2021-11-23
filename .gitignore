@@ -24,3 +24,5 @@ experiment-*
 .eslintcache
 Thumbs.db
 .idea/
+
+src/generated.ts
