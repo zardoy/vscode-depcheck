@@ -1,4 +1,4 @@
-export interface Configuration {
+export type Configuration = {
     // ignoreMatches
     /** Ignore packages that can cause false alerts */
     ignorePackages?: string[]

@@ -26,3 +26,4 @@ Thumbs.db
 .idea/
 
 src/generated.ts
+src/configurationTypeGenerated.jsonc
